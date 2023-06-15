@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="container">
-      <?php include("body.html");?>
+      <?php include("body.php");?>
     </div>
   </body>
 </html>

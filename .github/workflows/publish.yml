@@ -21,7 +21,7 @@ jobs:
       uses: ZacJW/markdown-html-action@1.1.0
       with:
         input_files: '[["body.md"]]'
-        output_files: '["site/body.html"]'
+        output_files: '["site/body.php"]'
         extensions: '["extra", "smarty"]'
     
     - name: Publish to site
