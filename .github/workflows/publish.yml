@@ -20,7 +20,7 @@ jobs:
     - name: Render Markdown
       uses: ZacJW/markdown-html-action@1.1.0
       with:
-        input_files: '["body.md"]'
+        input_files: '[["body.md"]]'
         output_files: '["body.html"]'
 
 
