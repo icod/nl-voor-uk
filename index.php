@@ -9,6 +9,13 @@
   </head>
   <body>
 
+<?php 
+
+include("body.html");
+
+?>
+
+
 <?php
 
 $url = 'https://gist.githubusercontent.com/icod/5da1fd545388edf9089edb973ae6f8f5/raw/4c3e9b54dac8fca9aa8a191bc45066900aa0dbb3/Nederlands-voor-Oekra%25C3%25AFners.md';
