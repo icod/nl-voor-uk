@@ -22,6 +22,7 @@ jobs:
       with:
         input_files: '[["body.md"]]'
         output_files: '["body.html"]'
+        extensions: '["smarty"]'
 
 
 #    - name: Validate composer.json and composer.lock
