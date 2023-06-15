@@ -4,11 +4,8 @@
 ## 📅 Planning
 
 |      | Les   | Datum   | Tijd      | 
-| :--: | :--   | :--     | :--        |  
-|      | Les 1 | 22 juni | 20:00 uur |
-|      | Les 2 |  |  |
-|      | Les 3 |  |  |
-|      | Les 4 |  |  |
+| :--: | :--   | :--     | :--       |  
+|  ❓  | Les 1 | 22 juni | 20:00 uur |
 
 ## 📚 Materiaal
 
