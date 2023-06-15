@@ -1,6 +1,15 @@
 # Nederlands voor Oekraïners
 Голландська мова для українців
 
+## 📅 Planning
+
+|      | Les   | Datum   | Tijd      | 
+| :--: | :--   | :--     | :--        |  
+|      | Les 1 | 22 juni | 20:00 uur |
+|      | Les 2 |  |  |
+|      | Les 3 |  |  |
+|      | Les 4 |  |  |
+
 ## 📚 Materiaal
 
 ### Lesboek **_Goed zo! 1_** 
