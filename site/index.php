@@ -9,7 +9,12 @@
   </head>
   <body>
     <div class="container">
-      <?php include("body.php");?>
+      <?php 
+      
+      $body = str_replace("<!DOCTYPE html>", "", file_get_contents("body.php"));
+      echo $body;
+      
+      ?>
     </div>
   </body>
 </html>
