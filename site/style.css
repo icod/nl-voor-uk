@@ -7,6 +7,22 @@ body {
     margin: 0 auto;
 }
 
+table {
+    border-spacing: 0px;
+}
+
+table th {
+    border-bottom: 1px solid;
+}
+
+table td {
+    border-bottom: 1px solid #ddd;
+}
+
+table th, td {
+    padding: .5em;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
        background: black;
@@ -15,5 +31,9 @@ body {
     
     a, a:visited, a:active {
         color: orange;
+    }
+    
+    table td {
+        border-bottom: 1px solid #555;
     }
 }
