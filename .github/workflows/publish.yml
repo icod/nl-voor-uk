@@ -17,6 +17,13 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: 
+      uses: ZacJW/markdown-html-action@1.1.0
+        with:
+          input_files: '["body.md"]'
+          output_files: '["body.html"]'
+
+
 #    - name: Validate composer.json and composer.lock
 #      run: composer validate --strict
 
