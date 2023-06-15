@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-
-<?php include("body.html");?>
-
-</body>
+    <div class="container">
+      <?php include("body.html");?>
+    </div>
+  </body>
 </html>
