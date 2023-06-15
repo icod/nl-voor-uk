@@ -22,7 +22,17 @@ jobs:
       with:
         input_files: '[["body.md"]]'
         output_files: '["body.html"]'
-        extensions: '["smarty"]'
+        extensions: '["extra", "smarty"]'
+    
+    - name: Publish to site
+      uses: sebastianpopp/ftp-action@releases/v2
+      with:
+        host: ${{ secrets.FTP_HOST }}
+        user: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        localDir: ""
+        remoteDir: "httpdocs"
+        options: "--delete --asci --verbose"
 
 
 #    - name: Validate composer.json and composer.lock
