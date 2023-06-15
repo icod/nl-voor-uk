@@ -5,7 +5,7 @@
 
 |      | Les   | Datum   | Tijd      | 
 | :--: | :--   | :--     | :--       |  
-|  ❓  | Les 1 | 22 juni | 20:00 uur |
+|      | Les 1 | 22 juni | 19:30 uur |
 
 ## 📚 Materiaal
 
