@@ -33,9 +33,3 @@ jobs:
         localDir: "site"
         remoteDir: "httpdocs"
         options: "--delete --asci --verbose"
-
-
-#    - name: Validate composer.json and composer.lock
-#      run: composer validate --strict
-
-
