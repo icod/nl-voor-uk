@@ -6,6 +6,8 @@
 | Les   | Datum   | Tijd      | 
 | :--   | :--     | :--       |  
 | Les 1 | <del>6</del> 13 juli  | 19:30 uur |
+| Les 2 | 20 juli  | 19:30 uur |
+| Les 3 | 27 juli  | 19:30 uur |
 
 ## 📚 Materiaal
 
