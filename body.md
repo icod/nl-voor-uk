@@ -8,6 +8,8 @@
 | Les 1 | <del>6</del> 13 juli  | 19:30 uur |
 | Les 2 | 20 juli  | 19:30 uur |
 | Les 3 | 27 juli  | 19:30 uur |
+| Les 4 | 3 augustus | 19:30 uur |
+| Les 5 | 10 augustus | 19:30 uur |
 
 ## 📚 Materiaal
 
@@ -29,3 +31,10 @@ Hans Boland & Irina Michajlova, Pegasus, 202 blz., paperback, 2021, ISBN 9789061
 * Audio 
     * 💿 [CD1](https://soundcloud.com/user-526378923/sets/luister-en-leer-cd1/s-T8mqEyw4hgZ) 
     * 💿 [CD2](https://soundcloud.com/user-526378923/sets/luister-en-leer-cd2/s-Ms9g8BrkaWW)
+
+
+## 📺 Televisie
+
+* [_Boer zoekt vrouw_](https://www.npostart.nl/boer-zoekt-vrouw/KN_1683530)
+* [Jeugdjournaal](https://www.npostart.nl/nos-jeugdjournaal/NOSJeugdjournaal)
+
