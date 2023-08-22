@@ -10,6 +10,9 @@
 | Les 3 | 27 juli  | 19:30 uur |
 | Les 4 | 3 augustus | 19:30 uur |
 | Les 5 | 10 augustus | 19:30 uur |
+| Les 6 | 17 augustus | 19:30 uur |
+| Les 7 | 24 augustus | 19:30 uur |
+| Les 8 | 31 augustus | 19:30 uur |
 
 ## 📚 Materiaal
 
@@ -38,3 +41,6 @@ Hans Boland & Irina Michajlova, Pegasus, 202 blz., paperback, 2021, ISBN 9789061
 * [_Boer zoekt vrouw_](https://www.npostart.nl/boer-zoekt-vrouw/KN_1683530)
 * [Jeugdjournaal](https://www.npostart.nl/nos-jeugdjournaal/NOSJeugdjournaal)
 
+##  Muziek 
+
+* [Zij gelooft in mij - André Hazes](https://song.link/i/724140642)
