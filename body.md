@@ -11,8 +11,7 @@
 | Les 4 | 3 augustus | 19:30 uur |
 | Les 5 | 10 augustus | 19:30 uur |
 | Les 6 | 17 augustus | 19:30 uur |
-| Les 7 | 24 augustus | 19:30 uur |
-| Les 8 | 31 augustus | 19:30 uur |
+| Les 7 | 31 augustus | 19:30 uur |
 
 ## 📚 Materiaal
 
