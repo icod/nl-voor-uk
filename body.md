@@ -1,18 +1,6 @@
 # Nederlands voor Oekraïners
 Голландська мова для українців
 
-## 📅 Planning
-
-| Les   | Datum   | Tijd      | 
-| :--   | :--     | :--       |  
-| Les 1 | <del>6</del> 13 juli  | 19:30 uur |
-| Les 2 | 20 juli  | 19:30 uur |
-| Les 3 | 27 juli  | 19:30 uur |
-| Les 4 | 3 augustus | 19:30 uur |
-| Les 5 | 10 augustus | 19:30 uur |
-| Les 6 | 17 augustus | 19:30 uur |
-| Les 7 | 31 augustus | 19:30 uur |
-
 ## 📚 Materiaal
 
 ### Lesboek **_Goed zo! 1_** 
